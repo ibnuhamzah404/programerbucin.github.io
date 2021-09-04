@@ -1,7 +1,6 @@
 <title>{{.Title}}</title>
 
 {{ range .Site.RegularPages }}
-
-<a href="public/{{.Permalink}}">{.Title}</a>
+<a href="public/{{.Permalink}}">{{.Title}}</a>
 {{ end }}
 
