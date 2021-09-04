@@ -1,9 +1,10 @@
 <title>{{.Title}}</title>
-
 <a href="/">Home</a>
-<a href="/programerbucin.github.io/public/blog">Blog</a>
-<a href="/programerbucin.github.io/public/porto">Portofolio</a>
+{{ range .Site.RegularPages }}
 
+<a href="public/{{.Permalink}}">{.Title}</a>
 {{ if .IsHome }}
 <p>Welcome home</p>
 {{ end }}
+{{ end }}
+
