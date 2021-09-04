@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Peogramer Bucin"
+theme = "programerbucin"
+paginate = 2
+[params]
+    Description = "tempat belajar koding asik"

@@ -1,0 +1,14 @@
+nav{
+    background-color: lightblue;
+    
+}
+
+ul{
+    list-style: none;
+
+    margin : 0 10px;
+}
+
+li{
+    display: inline-block;
+}

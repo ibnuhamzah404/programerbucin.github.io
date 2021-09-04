@@ -1,0 +1,12 @@
+{{ define "main" }}
+    {{ if isset .Params "featured_image" }}
+    <img src=" {{.Params.Featured_image}}" alt="" width="100">
+   
+    {{ end }}
+   
+    <hr>
+ <h1>{{ .Title }}</h1>
+ <p>{{ .Content }}</p>
+
+ 
+{{ end }}
