@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portofolio on Peogramer Bucin</title>
-    <link>/porto/</link>
+    <link>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/</link>
     <description>Recent content in Portofolio on Peogramer Bucin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Sep 2021 23:49:09 +0700</lastBuildDate><atom:link href="/porto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 23:49:09 +0700</lastBuildDate><atom:link href="https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Porto</title>
-      <link>/porto/porto/</link>
+      <link>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/porto/</link>
       <pubDate>Sun, 05 Sep 2021 19:54:45 +0700</pubDate>
       
-      <guid>/porto/porto/</guid>
+      <guid>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/porto/</guid>
       <description>ini adalah blog pertama ku ini adalah blog pertama ku ini adalah blog pertama ku ini adalah blog pertama ku</description>
     </item>
     
     <item>
       <title>Myresume</title>
-      <link>/porto/myresume/</link>
+      <link>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/myresume/</link>
       <pubDate>Sat, 04 Sep 2021 23:59:33 +0700</pubDate>
       
-      <guid>/porto/myresume/</guid>
+      <guid>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/myresume/</guid>
       <description>ini adalah resume saya</description>
     </item>
     
