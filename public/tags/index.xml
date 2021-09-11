@@ -2,9 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Peogramer Bucin</title>
-    <link>https://ibnuhamzah404.github.io/programerbucin.github.io/public/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Peogramer Bucin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ibnuhamzah404.github.io/programerbucin.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 19:54:45 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cat</title>
+      <link>/tags/cat/</link>
+      <pubDate>Sun, 05 Sep 2021 19:54:45 +0700</pubDate>
+      
+      <guid>/tags/cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dog</title>
+      <link>/tags/dog/</link>
+      <pubDate>Sun, 05 Sep 2021 19:54:45 +0700</pubDate>
+      
+      <guid>/tags/dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>turtle</title>
+      <link>/tags/turtle/</link>
+      <pubDate>Sun, 05 Sep 2021 19:54:45 +0700</pubDate>
+      
+      <guid>/tags/turtle/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

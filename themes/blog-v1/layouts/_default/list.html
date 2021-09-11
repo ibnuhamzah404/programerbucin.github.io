@@ -1,0 +1,44 @@
+{{ define "main" }}
+<style>
+  .c-box{
+    background: -webkit-linear-gradient(left, transparent, #AEAFAE, transparent);
+    border: solid white 6px;
+   
+    font-size: 10px;
+    color: white;
+    text-align: center;}
+</style>
+<div class="pt-10 bg-gradient-to-b to-gray-200 from-white h-screen">
+
+<div class="w-5/6   lg:max-w-screen-xl  mx-auto nes-container m-0  is-dark member-card"><div class="avatar">
+  <h4 class="topic-title text-xl press-start"><i class="nes-icon star"></i>My Portofolio</h4>
+   </div>
+  </div>
+
+  <div class="bg-ps2 w-5/6 lg:max-w-screen-xl mx-auto h-auto flex justify-evenly flex-wrap items-center">
+      <div class="mt-5 w-56 h-56  c-box">
+
+      </div>
+      <div class="mt-5  w-56 h-56  c-box">
+
+      </div>
+      <div class="mt-5  w-56 h-56  c-box">
+
+      </div>
+      <div class="mt-5 w-56 h-56  c-box">
+
+      </div>
+      <div class="mt-5 w-56 h-56  c-box">
+
+      </div>
+      <div class="mt-5 w-56 h-56  c-box">
+
+      </div>
+  </div>
+</div>
+  
+
+
+ {{ template "_internal/pagination.html" . }}
+ 
+{{ end }}

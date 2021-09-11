@@ -2,32 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/</loc>
+    <loc>/blog/belajar-arduino-dari-dasar/</loc>
+    <lastmod>2021-09-08T18:04:06+07:00</lastmod>
+  </url><url>
+    <loc>/blog/blog-post-4/</loc>
+    <lastmod>2021-09-08T14:45:24+07:00</lastmod>
+  </url><url>
+    <loc>/tags/cat/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/tags/dog/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/porto/porto/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/blog/blog-post-1/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/blog/blog-post-2/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/blog/blog-post-3/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/tags/turtle/</loc>
+    <lastmod>2021-09-05T19:54:45+07:00</lastmod>
+  </url><url>
+    <loc>/blog/post-2/</loc>
     <lastmod>2021-09-05T01:13:35+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/blog/post-2/</loc>
-    <lastmod>2021-09-05T01:13:35+07:00</lastmod>
-  </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/blog/post-1/</loc>
+    <loc>/blog/post-1/</loc>
     <lastmod>2021-09-05T01:13:30+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/myresume/</loc>
+    <loc>/porto/myresume/</loc>
     <lastmod>2021-09-04T23:59:33+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/porto/</loc>
-    <lastmod>2021-09-04T23:59:33+07:00</lastmod>
-  </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/blog/blog-new/</loc>
+    <loc>/blog/</loc>
     <lastmod>2021-09-04T23:49:09+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/blog/</loc>
+    <loc>/blog/blog-new/</loc>
     <lastmod>2021-09-04T23:49:09+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/kontak/</loc>
+    <loc>/kontak/</loc>
     <lastmod>2021-09-04T23:49:09+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/categories/</loc>
+    <loc>/porto/</loc>
+    <lastmod>2021-09-04T23:49:09+07:00</lastmod>
   </url><url>
-    <loc>https://ibnuhamzah404.github.io/programerbucin.github.io/public/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2021-09-04T23:49:09+07:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>

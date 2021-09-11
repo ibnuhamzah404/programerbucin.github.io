@@ -1,7 +1,7 @@
-baseURL = "https://ibnuhamzah404.github.io/programerbucin.github.io/public"
+baseURL = ""
 languageCode = "en-us"
 title = "Peogramer Bucin"
-theme = "programerbucin"
+theme = "blog-v1"
 paginate = 2
 [params]
     Description = "tempat belajar koding asik"
